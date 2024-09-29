@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karpagarajkumar
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Snowflake 
+- 🌱 I’m currently learning Terraform 
 - 💞️ I’m looking to collaborate on everyone who interested to learn new things
 - 📫 How to reach me karpagarajkumarm@gmail.com
 
